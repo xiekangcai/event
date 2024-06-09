@@ -1,0 +1,1 @@
+import{a as t}from"./request-DAPTtqD7.js";const s=()=>t.get("/my/userinfo"),e=a=>t.put("/my/userinfo",a),n=a=>t.patch("/my/update/avatar",{avatar:a}),u=a=>t.patch("/my/updatepwd",a);export{n as a,u as b,s as g,e as u};
