@@ -1,1 +1,0 @@
-import{aC as r,f as t}from"./index-DVHjmt9v.js";import{g as a}from"./user-TW22ef4x.js";const i=r("userInfo",()=>{const e=t({id:"",username:"",nickname:"",email:"",user_pic:""});return{result:e,changAction:async()=>{const{data:n}=await a();e.value=n}}});export{i as u};
